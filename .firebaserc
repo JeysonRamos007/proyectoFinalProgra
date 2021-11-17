@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "hospitallogin-60272": {
+      "hosting": {
+        "hospitalproyect": [
+          "hospitallogin-60272"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "hospitallogin-60272"
+  }
+}
